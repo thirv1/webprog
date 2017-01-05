@@ -1,0 +1,4 @@
+home=Home
+colors=couleurs
+utilities=""
+about=Info
