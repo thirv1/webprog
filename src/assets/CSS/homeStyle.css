@@ -1,0 +1,10 @@
+body {
+	font-family: "Letter Gothic Std",Arial,sans-serif;
+	font-size: 15px;
+  background-color: rgba(209, 227, 245);
+	background: url("/Web/ShopMVC/assets/images/background/bg_watercolor.jpg");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-size: contain;
+	background-attachment:fixed;
+}

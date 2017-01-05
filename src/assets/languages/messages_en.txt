@@ -1,0 +1,4 @@
+home=Home
+colors=colors
+utilities=utilities
+about=about
